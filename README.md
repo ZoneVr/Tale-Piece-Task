@@ -3,7 +3,7 @@
 
 <----------------------------------------------------->
 
-Head Developerx - Dragon fries - owabs
+Head Developer - Dragon fries - owabs
 
 Developer - getrektLol12567 - MIka - Trillz
 
@@ -50,15 +50,12 @@ TASKS: getrektLol12567
 -
 -
 
-<----------------------------------------------------->
-
 TASKS: MIka
 - 
 - 
 -
 -
 
-<----------------------------------------------------->
 
 TASKS: Trillz
 - 
