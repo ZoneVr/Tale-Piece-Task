@@ -9,9 +9,7 @@ Developer - getrektLol12567 - MIka - Trillz
 
 Moderator - iiMustf - Kelss
 
-<------------------------------------------->
-
-TASKS:
+<TASKS: --------> Head Developer
 - > Dragon fries
 -
 -
@@ -24,7 +22,7 @@ TASKS:
 -
 -
 
-<----------------->
+<TASKS: --------> Developer
 
 - > getrektLol12567
 -
