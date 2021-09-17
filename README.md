@@ -11,6 +11,9 @@ Moderator - iiMustf - Kelss
 
 <----------------------------------------------------->
 
+1 <--------->
+
+Owner
 
 @Virus :sparkler: TASKS:
 - Build All Island
@@ -18,7 +21,7 @@ Moderator - iiMustf - Kelss
 -
 
 
-<--------->
+2 <--------->
 
 Co-Owner
 
@@ -28,7 +31,7 @@ Co-Owner
 - 
 -
 
-<--------->
+3 <--------->
 
 Head Developer
 
@@ -44,9 +47,7 @@ TASKS: owabs
 -
 -
 
-<----------------------------------------------------->
-
-<--------->
+4 <--------->
 
 Developer
 
