@@ -14,7 +14,8 @@ Moderator - iiMustf - Kelss
 <------------------------------------------->
 
 
-<TASKS: --------> Head Developer
+TASKS --------> Head Developer
+
 
 > Dragon fries
 -
@@ -30,7 +31,8 @@ Moderator - iiMustf - Kelss
 
 
 
-<TASKS: --------> Developer
+TASKS --------> Developer
+
 
 > getrektLol12567
 -
