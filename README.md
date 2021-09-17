@@ -11,62 +11,36 @@ Moderator - iiMustf - Kelss
 
 <------------------------------------------->
 
-@Virus :sparkler: TASKS:
-- Build All Island
-- Script 
--
-
-@Cock TASKS:
-- Admiral Cape
-- flintlock
-- 
--
-
-TASKS: Dragon fries
-- 
-- 
--
--
-
-TASKS: owabs
-- 
-- 
--
--
-
-TASKS: getrektLol12567
-- 
-- 
--
--
-
-TASKS: MIka
-- 
-- 
--
--
-
-
-TASKS: Trillz
-- 
-- 
--
--
-
-<------------------------------------------->
-
-
 TASKS:
-- 
-- 
--
--
-- 
-- 
--
--
--
--
-- 
-- 
--
+- > Dragon fries
+                 -
+                 -
+                 -
+                 -
+
+- > owabs
+                 -
+                 -
+                 -
+                 -
+
+<----------------->
+
+- > getrektLol12567
+                 -
+                 -
+                 -
+                 -
+
+- > MIka > 
+                 -
+                 -
+                 -
+                 -
+                 
+- > Trillz
+                 -
+                 -
+                 -
+                 -
+<----------------->
