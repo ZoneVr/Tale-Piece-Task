@@ -11,9 +11,8 @@ Moderator - iiMustf - Kelss
 
 <----------------------------------------------------->
 
-1 <--------->
+1 <---------> Owner
 
-Owner
 
 @Virus :sparkler: TASKS:
 - Build All Island
@@ -21,9 +20,7 @@ Owner
 -
 
 
-2 <--------->
-
-Co-Owner
+2 <---------> Co-Owner
 
 @Cock TASKS:
 - Admiral Cape
@@ -31,9 +28,7 @@ Co-Owner
 - 
 -
 
-3 <--------->
-
-Head Developer
+3 <---------> Head Developer
 
 TASKS: Dragon fries
 - 
@@ -47,11 +42,7 @@ TASKS: owabs
 -
 -
 
-4 <--------->
-
-Developer
-
-
+4 <---------> Developer
 
 TASKS: getrektLol12567
 - 
