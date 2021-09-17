@@ -17,7 +17,10 @@ Moderator - iiMustf - Kelss
 - Script 
 -
 
-<----------------------------------------------------->
+
+<--------->
+
+Co-Owner
 
 @Cock TASKS:
 - Admiral Cape
@@ -25,9 +28,28 @@ Moderator - iiMustf - Kelss
 - 
 -
 
+<--------->
+
+Head Developer
+
+TASKS: Dragon fries
+- 
+- 
+-
+-
+
+TASKS: owabs
+- 
+- 
+-
+-
+
 <----------------------------------------------------->
 
+<--------->
+
 Developer
+
 
 
 TASKS: getrektLol12567
