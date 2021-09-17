@@ -27,16 +27,29 @@ Moderator - iiMustf - Kelss
 
 <---------------------->
 
-@Cock TASKS:
--
--
+Developer
+
+
+TASKS: getrektLol12567
+- 
+- 
+- 
+
+<---------------------->
+
+TASKS: MIka
+- 
+- 
 -
 
 <---------------------->
 
+TASKS: Trillz
+- 
+- 
+-
 
-
-Developer
+<---------------------->
 
 TASKS:
 - 
