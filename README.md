@@ -15,7 +15,7 @@ Moderator - iiMustf - Kelss
 
 
 
-            Head Developer
+Head Developer
 
 ~~~~~~~~~~~~~~~~
 
@@ -35,7 +35,7 @@ Moderator - iiMustf - Kelss
 
 ~~~~~~~~~~~~~~~~
 
-          Developer
+Developer
 
 ~~~~~~~~~~~~~~~~
 
