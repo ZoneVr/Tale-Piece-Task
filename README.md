@@ -1,47 +1,47 @@
 -— Don’t Type Here —
 
+
+<------------------------------------------------------------>
+Head Developerx - Dragon fries - owabs
+
+Developer - getrektLol12567 - MIka - Trillz
+
+Moderator - iiMustf - Kelss
+<------------------------------------------------------------>
+
+
+
 @Virus :sparkler: TASKS:
 - Build All Island
 - Script 
-- 
-
-@MikLovin TASKS:
-- 
-- flintlock
+-
+<------------------------------------------------------------>
+<------------------------------------------------------------>
+@Cock TASKS:
 - Admiral Cape
+- flintlock
+- 
+-
+<------------------------------------------------------------>
+<------------------------------------------------------------>
+@Cock TASKS:
+-
+-
+-
+<------------------------------------------------------------>
+<------------------------------------------------------------>
 
- TASKS:
-- Stats system
-- 
-- map gui
 
-TASKS:
-- lion's song skill
-- Walking Effects
-- Inventory System
 
-@MIka TASKS:
-- 
-- 
-- 
-
- TASKS:
-- Soul Solid
-- Marine Clothes
-- 
+Developer
 
 TASKS:
 - 
 - 
 - 
-
-@Susser TASKS:
 - 
 - 
 - 
-
- @owabs.  TASKS:
-- one piece gfx
 -
 - 
 - 
