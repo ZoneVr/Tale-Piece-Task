@@ -16,14 +16,14 @@ Moderator - iiMustf - Kelss
 
 <TASKS: --------> Head Developer
 
-- > Dragon fries
+> Dragon fries
 -
 -
 -
 
 
 
-- > owabs
+> owabs
 -
 -
 -
@@ -32,21 +32,21 @@ Moderator - iiMustf - Kelss
 
 <TASKS: --------> Developer
 
-- > getrektLol12567
+> getrektLol12567
 -
 -
 -
 
 
 
-- > MIka > 
+> MIka > 
 -
 -
 -
 
 
 
-- > Trillz
+> Trillz
 -
 -
 -
