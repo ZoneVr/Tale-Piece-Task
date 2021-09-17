@@ -13,10 +13,10 @@ Moderator - iiMustf - Kelss
 
 TASKS:
 - > Dragon fries
-                 -
-                 -
-                 -
-                 -
+-
+-
+-
+-
 
 - > owabs
                  -
