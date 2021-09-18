@@ -14,52 +14,36 @@ Moderator - iiMustf - Kelss
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-
 Head Developer
 
-~~~~~~~~~~~~~~~~
-
-> Dragon fries
+Dragon fries
+- Fruit models
 -
 -
--
 
-~~~~~~~~~~~~~~~~
 
-~~~~~~~~~~~~~~~~
-
-> owabs
+owabs
 -
 -
 -
 
-~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Developer
 
-~~~~~~~~~~~~~~~~
 
-> getrektLol12567
+getrektLol12567
+- alabasta one piece
 -
 -
--
 
-~~~~~~~~~~~~~~~~
 
-~~~~~~~~~~~~~~~~
-
-> MIka
+MIka
 -
 -
 -
 
-~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~
-
-> Trillz
+Trillz
 -
 -
 -
-~~~~~~~~~~~~~~~~
-
